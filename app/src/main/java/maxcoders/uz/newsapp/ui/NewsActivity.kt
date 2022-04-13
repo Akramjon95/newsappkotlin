@@ -46,4 +46,8 @@ class NewsActivity : AppCompatActivity() {
     fun ThirddCommit(){
         Toast.makeText(this, "Secon commit", Toast.LENGTH_LONG).show()
     }
+
+    fun FourthCommit(){
+        Toast.makeText(this, "4 commit", Toast.LENGTH_LONG).show()
+    }
 }
