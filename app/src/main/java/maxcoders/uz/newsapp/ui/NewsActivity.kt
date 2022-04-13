@@ -38,4 +38,8 @@ class NewsActivity : AppCompatActivity() {
     fun newCommit(){
         Toast.makeText(this, "New commit", Toast.LENGTH_LONG).show()
     }
+
+    fun SecondCommit(){
+        Toast.makeText(this, "Secon commit", Toast.LENGTH_LONG).show()
+    }
 }
